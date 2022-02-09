@@ -1,0 +1,6 @@
+px = {
+  provider = "GitHub"
+  repo     = "a/b"
+  branch   = "branch"
+  domain   = "a.domain"
+}
